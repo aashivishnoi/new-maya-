@@ -1,0 +1,50 @@
+body {
+  background: linear-gradient(#457F8D, #AEE5CA);
+  margin: 40px, 50px, 40px, 50px;
+  font-family: Tahoma, Geneva, sans-serif;
+  padding-top: 20px;
+  padding-left: 230px;
+  padding-right: 230px;
+  padding-bottom: 20px;
+}
+
+.Title{
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  font-family: Tahoma, Geneva, sans-serif;
+  text-shadow: 4px 3px #000000;
+  color: white;
+  background-color: #274951;
+}
+
+.Subtitle{
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  font-size: 55;
+  font-family: Tahoma, Geneva, sans-serif;
+  color: white;
+  text-shadow: 1px 1px #000000;
+  border-style: double;
+  line-height: 2;
+}
+
+.button{
+  background-color: white;
+  border: white;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-family: Tahoma, Geneva, sans-serif;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 5px 5px 5px black;
+}
+
+/* a {
+  color: white;
+} */
